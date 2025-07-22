@@ -1,8 +1,8 @@
 # AgentX Notion MCP Server
 
-(Folk from https://github.com/makenotion/notion-mcp-server)
-
 [![Website](https://img.shields.io/badge/Website-🌐-purple)](https://www.agentx.so/mcp/notion)
+
+[![Watch the Notion Tutorial video](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/XiU9vUMgNTY)
 
 This project implements an [MCP server](https://spec.modelcontextprotocol.io/) for the [Notion API](https://developers.notion.com/reference/intro) with **user-friendly environment variables**.
 
